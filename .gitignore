@@ -1,0 +1,25 @@
+######################
+# OS generated files #
+######################
+.DS_Store
+
+
+#####################
+# Java Ignore files #
+#####################
+*.class
+
+
+##########################
+# Jetbrains Ignore files #
+##########################
+*.iml
+.idea/
+
+##########################
+# Project Ignore files #
+##########################
+
+toolbox_slides/
+toolbox_statements.pdf
+toolbox2208172208/
