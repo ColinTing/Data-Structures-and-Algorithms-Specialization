@@ -13,7 +13,7 @@ long long MaxPairwiseProduct(const vector<int>& numbers) {
     
     for (int first = 0; first < n; ++first) {
        if ((max_index1 == -1) || (numbers[first] > numbers[max_index1])) {
-	 max_index1 = first;
+	        max_index1 = first;
        } 
     }
 	
