@@ -27,7 +27,7 @@ public class Change {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int money = in.nextInt();
-        int[] denominations = {1,4,6};
+        int[] denominations = {1,5,10};
         System.out.println(change(money, denominations));
     }
 
